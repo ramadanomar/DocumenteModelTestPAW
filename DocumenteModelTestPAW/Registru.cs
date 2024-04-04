@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DocumenteModelTestPAW
 {
-    public class Registru
+    public class Registru 
     {
         public List<Document> documents = new List<Document>();
         Random random = new Random();
